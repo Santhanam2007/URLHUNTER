@@ -1,7 +1,6 @@
 # ⚔️ URLHunter - Recon Juice Extractor for Bug Bounty & Pentesters
 
 URLHunter is a custom recon triage tool built to automatically extract high-signal URLs from recon dumps.
-Inspired by @TomNomNom, @Stokfredrik, and @NahamSec.
 
 ## 🚀 Features
 - Filters URLs for XSS, SQLi, Open Redirect, LFI potential
